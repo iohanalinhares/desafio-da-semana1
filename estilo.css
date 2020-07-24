@@ -1,11 +1,7 @@
-.corpo{
-    padding-left: 3%;
-    padding-right: 5%;
-}
-.titulo{
+#titulo{
     color: #06bf1b;
 }
 
-#texto{
+.texto{
     font-size: 17px;
 }
